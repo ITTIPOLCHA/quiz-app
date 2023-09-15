@@ -40,4 +40,4 @@ You can add new questions to the application by editing the `/src/data/QuestionD
     C: "____",
     D: "____",
     answer: "____",
-  }
+    }
