@@ -34,7 +34,10 @@ You can add new questions to the application by editing the `/src/data/QuestionD
 
    ```javascript
    {
-     question: "Your question?",
-     options: ["Option 1", "Option 2", "Option 3", "Option 4"],
-     answerIndex: 0, // Index of the correct answer option
-   }
+    question: "____",
+    A: "____",
+    B: "____",
+    C: "____",
+    D: "____",
+    answer: "____",
+  }
